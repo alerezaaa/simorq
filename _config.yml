@@ -16,8 +16,10 @@ author:
   bio: >- # tell to the world
     یک وبلاگ برای به اشتراک گذاری افکاری از ذهن من!
     </hr>
-    لینک 
-    <a href="https://alirezad.ir" target="_blank" rel="noopener">وبسایت من</a>.
+    لینک ها 
+    <a href="https://nevise.vercel.app/" target="_blank" rel="noopener">Vercel</a>,
+    <a href="https://nevise.netlify.app" target="_blank" rel="noopener">Netlify</a>,
+    <a href="https://nevise.pages.dev" target="_blank" rel="noopener">CF Pages</a>
 
   # username:  your_username # general username
   github: mhdzli/simorq # github username
