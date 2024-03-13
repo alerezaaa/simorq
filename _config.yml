@@ -15,7 +15,7 @@ author:
   name: علیرضا # author name
   bio: >- # tell to the world
     یک وبلاگ برای به اشتراک گذاری افکاری از ذهن من!
-    </hr>
+    <br>
     لینک ها 
     <a href="https://nevise.vercel.app/" target="_blank" rel="noopener">Vercel</a>,
     <a href="https://nevise.netlify.app" target="_blank" rel="noopener">Netlify</a>,
