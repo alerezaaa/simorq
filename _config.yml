@@ -15,16 +15,16 @@ author:
   name: علیرضا # author name
   bio: >- # tell to the world
     یک وبلاگ برای به اشتراک گذاری افکاری از ذهن من!
-    # <br>
-    # لینک ها 
-    # <a href="https://nevise.vercel.app/" target="_blank" rel="noopener">Vercel</a>,
-    # <a href="https://nevise.netlify.app" target="_blank" rel="noopener">Netlify</a>,
-    # <a href="https://nevise.pages.dev" target="_blank" rel="noopener">CF Pages</a>
-    <br>
     تم تاریک دوست داری؟
     <br>
-    روی خورشید بالا-راست ↗ کلید کن تا خاموش بشه :)
+    روی خورشید بالا-راست ⇗ کلید کن تا خاموش بشه :)
 
+  # <br>
+  # لینک ها 
+  # <a href="https://nevise.vercel.app/" target="_blank" rel="noopener">Vercel</a>,
+  # <a href="https://nevise.netlify.app" target="_blank" rel="noopener">Netlify</a>,
+  # <a href="https://nevise.pages.dev" target="_blank" rel="noopener">CF Pages</a>
+  # <br>
   # username:  your_username # general username
   github: mhdzli/simorq # github username
   # twitter: your_twitter_username # twitter username
