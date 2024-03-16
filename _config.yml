@@ -40,7 +40,7 @@ author:
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
 # URL settings
-url: "https://test.nevise.pages.dev" # your domain 
+url: "https://test.note.alirezad.ir" # your domain 
 baseurl:
 permalink: /:title/
 google_analytics: # leave it blank if not wish
