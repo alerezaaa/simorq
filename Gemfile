@@ -10,6 +10,7 @@ source "https://rubygems.org"
 # Happy Jekylling!
 gem "jekyll", "~> 4.1.0"
 gem "webrick"
+gem "jekyll-sass-converter", "~> 2.2"
 
 # Fix for mismatched deps: https://github.com/ffi/ffi/issues/1103
 gem "ffi", "< 1.17.0"

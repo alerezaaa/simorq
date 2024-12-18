@@ -16,4 +16,5 @@ env.sh
 .envrc
 .netlify
 .direnv
-
+README.md
+.github/
