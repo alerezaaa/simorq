@@ -5,6 +5,7 @@ title: نویسه # site title
 description: >- # site description
   یک وبسایت برای به اشتراک گذاری افکاری از ذهن من
 lang: fa # default lang
+date_format: fa-IR # fa-IR || en-US -- set to fa-IR for persian dates
 timezone: Asia/Tehran # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
 repo: https://github.com/mhdzli/simorgh # site repo [optional]
@@ -32,7 +33,7 @@ author:
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
 # URL settings
-url: "https://nevise.pages.dev" # your domain 
+url: "https://note.alirezad.ir" # your domain 
 baseurl:
 permalink: /:title/
 google_analytics: # leave it blank if not wish
@@ -99,4 +100,3 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-postfiles
-  - jekyll-jalali
