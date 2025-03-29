@@ -19,6 +19,9 @@ gem "ffi", "< 1.17.0"
 # Fix for cloudflare pages: https://github.com/mhdzli/simorq/pull/9
 # gem "jekyll-sass-converter", "~> 2.2"
 
+gem 'csv'
+gem 'base64'
+gem 'bigdecimal'
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 
