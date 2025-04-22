@@ -1,7 +1,7 @@
 # Site settings
 
 source: src
-title: نویسه # site title
+title: چند خط با علیرضا # site title
 description: >- # site description
   یک وبسایت برای به اشتراک گذاری افکاری از ذهن من
 lang: fa # default lang
@@ -9,7 +9,7 @@ date_format: fa-IR # fa-IR || en-US -- set to fa-IR for persian dates
 timezone: Asia/Tehran # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
 repo: https://github.com/mhdzli/simorgh # site repo [optional]
-mode: light # default theme "dark" | "light"
+mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
